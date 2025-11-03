@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+MyLinkedList.egg-info/PKG-INFO
+MyLinkedList.egg-info/SOURCES.txt
+MyLinkedList.egg-info/dependency_links.txt
+MyLinkedList.egg-info/top_level.txt
+mylinkedlist/__init__.py
+mylinkedlist/linked_list.py
+mylinkedlist/node.py

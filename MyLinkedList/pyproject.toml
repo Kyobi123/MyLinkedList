@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "MyLinkedList"
+version = "0.1.0"
+description = "Una implementación simple de una Linked List en Python."
+authors = [{ name = "Tu Nombre", email = "tuemail@example.com" }]
+license = "MIT"
+readme = "README.md"
+requires-python = ">=3.8"
+
+[project.urls]
+Homepage = "https://github.com/tuusuario/MyLinkedList"
